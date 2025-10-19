@@ -21,7 +21,7 @@ console.log("Ви ввели позитивне число:", k);
 
 // Цикл for...in: Вивести всі ключі та значення об’єкта
 let person = {
-    name: "Поліна",
+    name: "Єлизавета",
     age: 18,
     city: "Кривий Ріг"
 };
@@ -53,3 +53,4 @@ console.log(map_res);
 let big_num = array_numbers.filter(num => num > 10);
 console.log("=== Числа більше 10 ===");
 console.log(big_num);
+
